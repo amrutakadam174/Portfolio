@@ -10,7 +10,7 @@ import Achievements from "../components/Achievements";
 import Languages from "../components/Languages";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
-import NavbarMenu from "../components/NavbarMenu"; // ✅ import menu
+import NavbarMenu from "../components/NavbarMenu"; // ✅ Updated menu
 
 export default function Dashboard() {
   return (
